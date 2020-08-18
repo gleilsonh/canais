@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Reality",Globo
+https://live.netcanais.com/GloboSP/video.m3u8?token=84e56329129e941d9ff769e4e1b802db&expires=1597694295&ip=187.54.141.208
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwqwsa0jUjeXGpN485nKk8zyjX-IEFZ0CKJmTUVZA=s100-c-k-c0xffffffff-no-rj-mo" group-title="Reality",FOXPREMIUM
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOFOX1HD)/stream_5/Segment-2987494453689976.m4v
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",FX
+https://rcstream.belugacdn.link/a/hls1/fx.m3u8?expires=1597723096&token=ca63e5826816c28b959af701aadbd115
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",GLOBO SP
+https://rcstream.belugacdn.link/a/hls1/bobosp.m3u8?expires=1597723738&token=77a9a216c614b08ccfa1825894664e0e
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",TNT
+https://rcstream.belugacdn.link/a/hls1/tnt.m3u8?expires=1597723980&token=436fbc35a41a619ec3bcb3ee0da8b19a
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",TELECINE PREMIUM
+https://rcstream.belugacdn.link/a/hls1/telecinepremium.m3u8?expires=1597724072&token=ba1edc926b45167d631be2fc87efd093
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",TELECINE TOUCH
+https://rcstream.belugacdn.link/a/hls1/telecinetouch.m3u8?expires=1597724226&token=7b8c3d16d5ffe789f4a84389ee6f4d64
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",TELECINE ACTION
+https://rcstream.belugacdn.link/a/hls1/telecineaction.m3u8?expires=1597724326&token=37aca7389fdc8f2dbda8fd04da0cbbe9
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",TELECINE PIPOCA
+https://rcstream.belugacdn.link/a/hls1/telecinepipoca.m3u8?expires=1597724517&token=51c5b69e8110d7a7ce3626d354ac46a5
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",SPACE
+https://rcstream.belugacdn.link/a/hls1/space.m3u8?expires=1597724588&token=2b10c5f875cfbe256f36e90ba9e2fe2d
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",MEGAPIX
+https://rcstream.belugacdn.link/a/hls1/megapix.m3u8?expires=1597724706&token=bc0ab8f823f6ce4da810b26a9516d1a2
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",GLOBO SP
+https://rcstream.belugacdn.link/a/hls1/bobosp.m3u8?expires=1597723738&token=77a9a216c614b08ccfa1825894664e0e
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",GLOBO SP
+https://rcstream.belugacdn.link/a/hls1/bobosp.m3u8?expires=1597723738&token=77a9a216c614b08ccfa1825894664e0e
