@@ -33,8 +33,26 @@ https://rcstream.belugacdn.link/a/hls1/space.m3u8?expires=1597724588&token=2b10c
 #EXTINF:-1 tvg-logo="" group-title="Reality",MEGAPIX
 https://rcstream.belugacdn.link/a/hls1/megapix.m3u8?expires=1597724706&token=bc0ab8f823f6ce4da810b26a9516d1a2
 
+#EXTINF:-1 tvg-logo="" group-title="Reality",HBO EXTREME
+https://rcstream.belugacdn.link/a/hls1/hboxtreme.m3u8?expires=1597791292&token=a1fb2cc1a0ca8099f2bc55659df5bdc1
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",HBO
+https://rcstream.belugacdn.link/a/hls1/hbo.m3u8?expires=1597791572&token=94659d50323ce07926e2ea8e01a8967f
+
 #EXTINF:-1 tvg-logo="" group-title="Reality",PREMIERE 2
 https://rcstream.belugacdn.link/a/hls1/premiere2.m3u8?expires=1597785788&token=65a33cd1ac070af98041fce196b929e4
 
 #EXTINF:-1 tvg-logo="" group-title="Reality",PREMIERE 3
 https://rcstream.belugacdn.link/a/hls1/premiere3.m3u8?expires=1597785933&token=40668e261c9124cc6992919d286a361b
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",PREMIERE 4
+https://rcstream.belugacdn.link/a/hls1/premiere4.m3u8?expires=1597786266&token=de5b81f005d7f272c76041ab31814ce9
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",PREMIERE 5
+https://rcstream.belugacdn.link/a/hls1/premiere5.m3u8?expires=1597789070&token=e335989c74d57a661fa352b2ec2b890a
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",PREMIERE 7
+https://rcstream.belugacdn.link/a/hls1/premiere7.m3u8?expires=1597789262&token=98e5e245da6f6ae237612690b8876f74
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",PREMIERE CLUB
+https://rcstream.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1597789701&token=d03607279597a5da8a2d1e0592a82cfe
