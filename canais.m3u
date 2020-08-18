@@ -62,3 +62,12 @@ https://osiolistic.azureedge.net/RCFServer5/ondemand/AGORSTMSZNHO.mp4?attachment
 
 #EXTINF:-1 tvg-logo="https://bit.ly/319YPVH" group-title="Reality",As Aventuras do Dr. Dolittle
 https://osiolistic.azureedge.net/RCFServer5/ondemand/ASAVNTRSDODRDLTLE.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://www.cinemaqualidade.li/wp-content/uploads/2020/04/1917-4k.jpg" group-title="Reality",1917
+https://dry.hlssrv.com/hls_serve_mp4/pXlYEb2KggT3eJjTM01Y.mp4?md5=_5toine8N8lpPZkHBIdToQ&expires=1597787003
+
+#EXTINF:-1 tvg-logo="https://www.cinemaqualidade.li/wp-content/uploads/2020/03/bloodshot-4k.jpg" group-title="Reality",BLOODSHOT
+https://nlw03.hlssrv.com/hls_serve_mp4/wGAa0huFkq5veGy40HTD.mp4?md5=9cauLjoyQa9cVkl8z9kWAw&expires=1597787385
+
+#EXTINF:-1 tvg-logo="https://bit.ly/317gWv7" group-title="Reality",ZOMBIELAND 2
+https://phantom.hlssrv.com/hls_serve_mp4/jIpvFVQ8AFHpINGzVcyK.mp4?md5=yCZHYaEKO5Vezsvo-FByww&expires=1597788962
