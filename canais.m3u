@@ -56,3 +56,9 @@ https://rcstream.belugacdn.link/a/hls1/premiere7.m3u8?expires=1597789262&token=9
 
 #EXTINF:-1 tvg-logo="" group-title="Reality",PREMIERE CLUB
 https://rcstream.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1597789701&token=d03607279597a5da8a2d1e0592a82cfe
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",Agora Estamos Sozinhos
+https://osiolistic.azureedge.net/RCFServer5/ondemand/AGORSTMSZNHO.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/3nRqVlc1O-1ETWr8uZF_dikswHs=/0x0:1920x1634/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/h/l/vfXUnSQTKRtPoCCiJFIg/dolittle.jpg" group-title="Reality",Agora As Aventuras do Dr. Dolittle
+https://osiolistic.azureedge.net/RCFServer5/ondemand/ASAVNTRSDODRDLTLE.mp4?attachment=true
