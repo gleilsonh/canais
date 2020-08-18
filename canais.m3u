@@ -33,8 +33,8 @@ https://rcstream.belugacdn.link/a/hls1/space.m3u8?expires=1597724588&token=2b10c
 #EXTINF:-1 tvg-logo="" group-title="Reality",MEGAPIX
 https://rcstream.belugacdn.link/a/hls1/megapix.m3u8?expires=1597724706&token=bc0ab8f823f6ce4da810b26a9516d1a2
 
-#EXTINF:-1 tvg-logo="" group-title="Reality",GLOBO SP
-https://rcstream.belugacdn.link/a/hls1/bobosp.m3u8?expires=1597723738&token=77a9a216c614b08ccfa1825894664e0e
+#EXTINF:-1 tvg-logo="" group-title="Reality",PREMIERE 2
+https://rcstream.belugacdn.link/a/hls1/premiere2.m3u8?expires=1597785788&token=65a33cd1ac070af98041fce196b929e4
 
-#EXTINF:-1 tvg-logo="" group-title="Reality",GLOBO SP
-https://rcstream.belugacdn.link/a/hls1/bobosp.m3u8?expires=1597723738&token=77a9a216c614b08ccfa1825894664e0e
+#EXTINF:-1 tvg-logo="" group-title="Reality",PREMIERE 3
+https://rcstream.belugacdn.link/a/hls1/premiere3.m3u8?expires=1597785933&token=40668e261c9124cc6992919d286a361b
