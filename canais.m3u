@@ -1,13 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Reality",Globo
-https://live.netcanais.com/GloboSP/video.m3u8?token=84e56329129e941d9ff769e4e1b802db&expires=1597694295&ip=187.54.141.208
+https://cdn.esporteone.com/GloboSP/video.m3u8?token=83bc7b8ab0a35f2f801b45130149338d&expires=1597850952&ip=200.128.60.37
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwqwsa0jUjeXGpN485nKk8zyjX-IEFZ0CKJmTUVZA=s100-c-k-c0xffffffff-no-rj-mo" group-title="Reality",FOXPREMIUM
 https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOFOX1HD)/stream_5/Segment-2987494453689976.m4v
 
 #EXTINF:-1 tvg-logo="https://bit.ly/317Wdrp" group-title="Reality",FX
 https://rcstream.belugacdn.link/a/hls1/fx.m3u8?expires=1597723096&token=ca63e5826816c28b959af701aadbd115
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",FOX PREMIUM 1
+https://rcstream.belugacdn.link/a/hls1/foxpremium1.m3u8?expires=1597878030&token=dd16ced28293ec3b2711fa86da98b3b9
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",FOX PREMIUM 2
+https://rcstream.belugacdn.link/a/hls1/foxpremium2.m3u8?expires=1597877626&token=a917728800e06745a076133e9c131dd6
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2CBjo3E" group-title="Reality",GLOBO SP
 https://rcstream.belugacdn.link/a/hls1/bobosp.m3u8?expires=1597723738&token=77a9a216c614b08ccfa1825894664e0e
@@ -39,6 +45,9 @@ https://rcstream.belugacdn.link/a/hls1/hboxtreme.m3u8?expires=1597791292&token=a
 #EXTINF:-1 tvg-logo="https://bit.ly/31WxmFS" group-title="Reality",HBO
 https://rcstream.belugacdn.link/a/hls1/hbo.m3u8?expires=1597791572&token=94659d50323ce07926e2ea8e01a8967f
 
+#EXTINF:-1 tvg-logo="" group-title="Reality",HBO 2
+https://rcstream.belugacdn.link/a/hls1/hbo2.m3u8?expires=1597877423&token=964b8aeb9f753dab9b87c53c2d834b85
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3kW4czz" group-title="Reality",PREMIERE 2
 https://rcstream.belugacdn.link/a/hls1/premiere2.m3u8?expires=1597785788&token=65a33cd1ac070af98041fce196b929e4
 
@@ -63,11 +72,21 @@ https://osiolistic.azureedge.net/RCFServer5/ondemand/AGORSTMSZNHO.mp4?attachment
 #EXTINF:-1 tvg-logo="https://bit.ly/319YPVH" group-title="Reality",As Aventuras do Dr. Dolittle
 https://osiolistic.azureedge.net/RCFServer5/ondemand/ASAVNTRSDODRDLTLE.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="https://www.cinemaqualidade.li/wp-content/uploads/2020/04/1917-4k.jpg" group-title="Reality",1917
-https://dry.hlssrv.com/hls_serve_mp4/pXlYEb2KggT3eJjTM01Y.mp4?md5=_5toine8N8lpPZkHBIdToQ&expires=1597787003
+#EXTINF:-1 tvg-logo="" group-title="Reality", Warner
+https://rcstream.belugacdn.link/a/hls1/warner.m3u8?expires=1597875852&token=d6c3acdd9cd0b08bac15257a39bb4f0e
 
-#EXTINF:-1 tvg-logo="https://www.cinemaqualidade.li/wp-content/uploads/2020/03/bloodshot-4k.jpg" group-title="Reality",BLOODSHOT
-https://nlw03.hlssrv.com/hls_serve_mp4/wGAa0huFkq5veGy40HTD.mp4?md5=9cauLjoyQa9cVkl8z9kWAw&expires=1597787385
+#EXTINF:-1 tvg-logo="" group-title="Reality", Cartoon Network
+https://rcstream.belugacdn.link/a/hls1/cartoon.m3u8?expires=1597876584&token=0e60b3f552a11b1a3bbe2b89c18d6dc2
 
-#EXTINF:-1 tvg-logo="https://bit.ly/317gWv7" group-title="Reality",ZOMBIELAND 2
-https://phantom.hlssrv.com/hls_serve_mp4/jIpvFVQ8AFHpINGzVcyK.mp4?md5=yCZHYaEKO5Vezsvo-FByww&expires=1597788962
+#EXTINF:-1 tvg-logo="" group-title="Reality",
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",
+
+#EXTINF:-1 tvg-logo="" group-title="Reality",
+
