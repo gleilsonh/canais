@@ -78,15 +78,5 @@ https://rcstream.belugacdn.link/a/hls1/warner.m3u8?expires=1597875852&token=d6c3
 #EXTINF:-1 tvg-logo="" group-title="Reality", Cartoon Network
 https://rcstream.belugacdn.link/a/hls1/cartoon.m3u8?expires=1597876584&token=0e60b3f552a11b1a3bbe2b89c18d6dc2
 
-#EXTINF:-1 tvg-logo="" group-title="Reality",
-
-#EXTINF:-1 tvg-logo="" group-title="Reality",
-
-#EXTINF:-1 tvg-logo="" group-title="Reality",
-
-#EXTINF:-1 tvg-logo="" group-title="Reality",
-
-#EXTINF:-1 tvg-logo="" group-title="Reality",
-
-#EXTINF:-1 tvg-logo="" group-title="Reality",
-
+#EXTINF:-1 tvg-logo="" group-title="Reality", Gaules
+https://bit.ly/3kWQyfr
